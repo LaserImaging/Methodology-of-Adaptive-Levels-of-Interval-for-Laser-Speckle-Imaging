@@ -1,0 +1,50 @@
+Copyright (c) 2025 holder: 
+
+- Ali A. Al-Temeemy is a Professor in the Department of Laser and Optoelectronics Engineering at Al-Nahrain University and an honorary research fellow in the Department of Electrical Engineering and Electronics at the University of Liverpool.
+
+Code Contributing Author: 
+
+- Ali A. Al-Temeemy, Department of Laser and Optoelectronics Engineering / Department of Electrical Engineering and Electronics, Al-Nahrain University / University of Liverpool.
+
+
+In return for making this code available, I would appreciate that you cite the following publications:
+
+* Al-Temeemy AA. The Methodology of Adaptive Levels of Interval for Laser Speckle Imaging. Journal of Imaging. 2024; 10(11):289. https://doi.org/10.3390/jimaging10110289
+
+* Ali A. Al-Temeemy, ALI: The adaptive levels of interval method for processing laser speckle images with superior activity extraction and discrimination capabilities, Optics and Lasers in Engineering, Volume 178,
+2024, 108173, ISSN 0143-8166, https://doi.org/10.1016/j.optlaseng.2024.108173
+
+
+
+BiBTeX format (see "ALIM.bib" file): 
+
+
+```bibtex
+@article{ALTEMEEMY202410110289,
+title = {The Methodology of Adaptive Levels of Interval for Laser Speckle Imaging},
+author = {Ali A. Al-Temeemy},
+journal = {Journal of Imaging},
+volume = {10},
+number={11},
+article-number={289},
+year = {2024},
+issn = {2313-433X},
+doi = {10.3390/jimaging10110289},
+url = {https://www.mdpi.com/2313-433X/10/11/289},
+PubMedID = {39590753}
+}
+```
+```bibtex
+@article{ALTEMEEMY2024108173,
+title = {ALI: The adaptive levels of interval method for processing laser speckle images with superior activity extraction and discrimination capabilities},
+author = {Ali A. Al-Temeemy},
+journal = {Optics and Lasers in Engineering},
+volume = {178},
+pages = {108173},
+year = {2024},
+issn = {0143-8166},
+doi = {https://doi.org/10.1016/j.optlaseng.2024.108173},
+url = {https://www.sciencedirect.com/science/article/pii/S0143816624001520}
+}
+```
+
